@@ -1,0 +1,13 @@
+# Python bytecode and cache directories anywhere in the repo
+__pycache__/
+*.py[cod]
+
+# Coding agent/editor config directories and files in any subfolder
+.claude/
+.claude.json
+.codex/
+.aider/
+.cursor/
+.windsurf/
+.roo/
+.cline/
