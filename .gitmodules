@@ -1,0 +1,6 @@
+[submodule "man_softmax"]
+	path = man_softmax
+	url = ../man_softmax.git
+[submodule "lru-memoize-project"]
+	path = lru-memoize-project
+	url = ../lru-memoize-project.git
