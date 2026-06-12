@@ -4,3 +4,6 @@
 [submodule "lru-memoize-project"]
 	path = lru-memoize-project
 	url = ../lru-memoize-project.git
+[submodule "roundtable"]
+	path = roundtable
+	url = git@github.com:oblivion113/roundtable.git

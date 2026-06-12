@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 
+# macOS metadata files
+.DS_Store
+
 # Coding agent/editor config directories and files in any subfolder
 .claude/
 .claude.json
